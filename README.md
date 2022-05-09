@@ -284,7 +284,7 @@ $
 ## Authors :black_nib:
 
 * tewodros atirsaw awedew   <[https://github.com/teddy004)>
-* messi zewde <[sentayehut](https://github.com/mess-web)>
+* messi zewde <[(https://github.com/mess-web)>
 
 ## License :lock:
 
@@ -293,4 +293,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## Acknowledgements :pray:
 
 **Shellby** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
-
