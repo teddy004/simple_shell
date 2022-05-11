@@ -1,6 +1,4 @@
 # shellby - Simple Shell :shell:
-hello
-
 A simple UNIX command interpreter written as part of the low-level programming and algorithm track at ALX.
 
 ## Description :speech_balloon:
@@ -292,5 +290,4 @@ $
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements :pray:
-dcgfxgfxd fs
 **Shellby** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
