@@ -31,3 +31,7 @@ void print_builtin_error(char *msg, char *arg)
 	write(STDERR_FILENO, "\n", 1);
 	set_process_exit_code(2);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6e9ac497355b58e6a7ed86f7a9eb6cb9252a871e
